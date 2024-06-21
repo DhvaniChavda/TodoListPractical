@@ -1,3 +1,16 @@
+# Project Details
+
+Hello, I have Created Todo-list app with Add, Edit, View, Delete features. 
+On the ADD button : User can add TODO.
+In the All tab: All Todo list display.
+In the Pending tab: All Pending task display.
+In the Completed tab: All completed task display. 
+On Checkbox click : Mark pending task to completed and vice versa.
+On Click of any task user can navigate to View Detail screen and on the top right button press user can edit their task.
+On Delete click : User can delete the task.
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
