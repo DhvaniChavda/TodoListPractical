@@ -42,7 +42,7 @@ export default ({
         </TouchableOpacity>
       </View>
     );
-  } else {
+  } else if(item.isDone) {
     return (
       <View style={[styles.vMainContainer]}>
         <TouchableOpacity
@@ -70,6 +70,8 @@ export default ({
         </TouchableOpacity>
       </View>
     );
+  }else{
+    return null;
   }
 };
 
